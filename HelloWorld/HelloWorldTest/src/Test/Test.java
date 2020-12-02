@@ -29,6 +29,7 @@ public class Test extends HttpServlet {
 		response.getWriter().append("<br/>");
 		response.getWriter().append("Hello World !!");
 		response.getWriter().append("<p>Hello World2 !!</p>");
+		response.getWriter().append("<p>Hello World3 !!</p>");
 	}
 
 	/**
